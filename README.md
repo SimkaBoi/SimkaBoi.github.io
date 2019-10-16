@@ -1,1 +1,0 @@
-# SimkaBoi.github.io
