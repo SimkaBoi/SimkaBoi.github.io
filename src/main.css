@@ -1,0 +1,15 @@
+body {
+    background-color: goldenrod;
+}
+
+#el1 {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+}
+
+#el2 {
+    background-color: aqua;
+    width: 100px;
+    height: 100px;
+}

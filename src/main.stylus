@@ -1,0 +1,3 @@
+primaryColor = #fa7a55
+body
+    background-color: primaryColor
